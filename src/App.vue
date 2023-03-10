@@ -46,6 +46,9 @@ export default {
 	</p>
 	<div class="all-messages">
 		<DiscordMessage author="Emma (triphora)" username="triphora">
+			#modrinth-discussion is hydrophobic, #lounge is far more hydrophilic for this type of discussion
+		</DiscordMessage>
+		<DiscordMessage author="Emma (triphora)" username="triphora">
 			I don't want to be strict here but the amount of off-topic conversation in a
 			channel named #modrinth-discussion is a bit baffling
 		</DiscordMessage>
