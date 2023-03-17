@@ -12,7 +12,7 @@
 			have to work to keep this channel a civilized place:
 		</p>
 	</div>
-	<div class="featured-messages">
+	<div class="message-box">
 		<DiscordMessage
 			v-for="message in featuredMessages"
 			:key="message"
@@ -27,15 +27,26 @@
 	<p>I mean...ok. So it's really not all that serious mostly.</p>
 	<p>
 		And the purpose of this website is not to scold you for accidentally
-		drifting into other topics.
+		drifting into other topics, as Emma aptly explains:
 	</p>
+	<div class="message-box">
+		<DiscordMessage
+			author="Emma (triphora)"
+			username="triphora"
+			avatar="https://avatars.githubusercontent.com/u/60205699?v=4"
+			color="#1bd96a"
+		>
+			y'all he's not saying we're banning people who go offtopic<br />
+			if that were the case we would be banning the entire server
+		</DiscordMessage>
+	</div>
 	<p>
 		This is actually mostly just a repository of my personal favorite messages
 		from the Modrinth staff (mostly Emma/triphora) telling people they've gone
 		off-track. Hey, maybe you'll enjoy them as much as I do. Enjoy a nice fat
 		list:
 	</p>
-	<div class="all-messages">
+	<div class="message-box">
 		<DiscordMessage
 			v-for="message in allMessages"
 			:key="message"
@@ -96,9 +107,8 @@ p {
 	margin-top: 5rem;
 }
 
-.featured-messages,
-.all-messages {
-	margin: 5rem 0;
+.message-box {
+	margin: 3rem 0;
 }
 
 footer {
