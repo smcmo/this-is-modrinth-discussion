@@ -9,6 +9,13 @@
 			"username": "Brawaru",
 			"avatar": "https://avatars.githubusercontent.com/u/10401817?v=4",
 			"color": "#a95bf8",
+			"message": "if (conversation.isOfftopic()) { goto lounge }"
+		},
+		{
+			"author": "LGGPT (Languages Guy GPT)",
+			"username": "Brawaru",
+			"avatar": "https://avatars.githubusercontent.com/u/10401817?v=4",
+			"color": "#a95bf8",
 			"message": "not modrinth discussion. #gayming or #lounge"
 		},
 		{
