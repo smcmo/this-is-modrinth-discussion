@@ -1,12 +1,12 @@
 <template>
 	<div class="opening-text">
-		<h1>Hey, this is <span class="green title">#modrinth-discussion</span>!</h1>
+		<h1>Hey, this is <span class="green title">#modrinth</span>!</h1>
 		<div class="message-box">
 			<DiscordMessage author="Emma (triphora)" username="triphora" avatar="https://avatars.githubusercontent.com/u/60205699?v=4" color="#1bd96a">
 				Oh, you're new here, so you haven't even seen https://thisismodrinthdiscussion.com/
 			</DiscordMessage>
 		</div>
-		<p>If you're reading this, you've likely been caught red-handed talking about non-Modrinth stuff in the #modrinth-discussion channel! 😲</p>
+		<p>If you're reading this, you've likely been caught red-handed talking about non-Modrinth stuff in the #modrinth channel! 😲</p>
 		<p>
 			Do you have any idea what you've done!? The Modrinth team works hard to keep that channel on-topic! Who do you think you are, just waltzing on in and
 			talking about something that's not Modrinth?? Just look how hard they have to work to keep this channel a civilized place:
@@ -34,7 +34,11 @@
 	</div>
 	<p>
 		This is actually mostly just a repository of my personal favorite messages from the Modrinth staff (mostly Emma/triphora) telling people they've gone
-		off-track. Hey, maybe you'll enjoy them as much as I do. Enjoy a nice fat list:
+		off-track. Hey, maybe you'll enjoy them as much as I do. Enjoy a nice fat list!
+	</p>
+	<p>
+		Also quick disclaimer: you may see many of the messages here referring to a channel called #modrinth-discussion, this is what the #modrinth channel was
+		originally called prior to a server channel restructuring in early 2024.
 	</p>
 	<div class="message-box">
 		<DiscordMessage
